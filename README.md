@@ -10,12 +10,12 @@ I'm a passionate developer interested in [Your Interests Here]. Welcome to my Gi
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adztrz&show_icons=true&theme=radical)
 
 ## Streak Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=highcontrast" alt="Your Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=adztrz&theme=highcontrast" alt="Your Streak Stats" />
 </p>
 
 ## Tech Stack
