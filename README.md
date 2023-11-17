@@ -1,6 +1,6 @@
-# Hi there, I'm Your Name! 👋
+# Hi there, I'm Aditt! 👋
 
-I'm a passionate developer interested in [Your Interests Here]. Welcome to my GitHub profile! 😊
+I'm a passionate developer interested in Python Programming. Welcome to my GitHub profile! 😊
 
 ## About Me
 
