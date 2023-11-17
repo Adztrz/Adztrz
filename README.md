@@ -4,9 +4,9 @@ I'm a passionate developer interested in [Your Interests Here]. Welcome to my Gi
 
 ## About Me
 
-- 🌱 I’m currently learning [Python].
-- 💬 Ask me about [Any Tech Related].
-- ⚡ Fun fact: [].
+- 🌱 I’m currently learning Python.
+- 💬 Ask me about Any Tech Related Topics.
+- ⚡ Fun fact: The term "bug" in computer science originated in 1947 when a moth got stuck in a relay of the Harvard Mark II computer. Grace Hopper famously recorded it as the "first actual case of bug being found.".
 
 ## GitHub Stats
 
