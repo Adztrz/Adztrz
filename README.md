@@ -10,7 +10,7 @@ I'm a passionate developer interested in Python Programming. Welcome to my GitHu
 
 ## GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=adztrz&show_icons=true&theme=radical)
+![Your GitHub Stats](https://github-readme-stats-od2v.vercel.app/api?username=adztrz&show_icons=true&theme=radical)
 
 ## Streak Stats
 
