@@ -18,10 +18,6 @@ I'm a passionate developer interested in Python Programming. Welcome to my GitHu
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=adztrz&theme=highcontrast" alt="Your Streak Stats" />
 </p>
 
-## Tech Stack
-
-- 💻 [Your Primary Tech Stack]
-- 🛠️ [Other Tools and Technologies]
 
 ## Connect with Me
 
