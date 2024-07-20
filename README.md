@@ -22,7 +22,7 @@ I'm a passionate developer interested in Python Programming. Welcome to my GitHu
 ## Connect with Me
 
 - 📫 How to reach me: [adztrz1@gmail.com]
-- 💼 LinkedIn: [https://www.linkedin.com/in/aditia-nugraha-65071a210/]
+- 💼 LinkedIn: [https://www.linkedin.com/in/adztrz/]
 - 🐦 Instagram: [https://www.instagram.com/adztrz/]
 
 Feel free to explore my repositories and don't hesitate to connect! Let's code and learn together. 🚀
