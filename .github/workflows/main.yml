@@ -17,4 +17,4 @@ jobs:
       - uses: adztrz/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          base_hireable: header, activity, community, repositories, metadata
+          base: header, activity, community, repositories, metadata
