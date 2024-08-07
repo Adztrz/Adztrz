@@ -8,4 +8,4 @@
 
 [<img align="left" width="390" alt="🦑" src="https://github.com/Adztrz/Adztrz/blob/main/github-metrics.svg">](#)
 [<img align="left" width="390" alt="🦑" src="https://github.com/Adztrz/Adztrz/blob/main/general.svg">](#)
-[<img align="left" width="380" alt="🦑" src="https://github.com/Adztrz/Adztrz/blob/main/metrics.plugin.habits.charts.svg">](#)
+[<img align="left" width="390" alt="🦑" src="https://github.com/Adztrz/Adztrz/blob/main/metrics.plugin.habits.charts.svg">](#)
