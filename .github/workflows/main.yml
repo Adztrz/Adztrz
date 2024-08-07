@@ -28,7 +28,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header
           base_indepth: yes
-          config_order: base.header, isocalendar, languages, notable, discussions, topics
+          config_order: isocalendar, languages, notable, discussions, topics
           output_action: gist
           committer_gist: ${{ secrets.GIST }}
           plugin_isocalendar: yes
