@@ -1,7 +1,7 @@
 name: Metrics
 on:
   # Schedule daily updates
-  schedule: [{cron: "0 0 * * *"}]
+  schedule: [{cron: "0 0 * * 0"}]
   # (optional) Run workflow manually
   workflow_dispatch:
   # (optional) Run workflow when pushing on master/main
@@ -9,49 +9,34 @@ on:
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
-    environment: 
-      name: Metrics
     permissions:
-      contents: write
+       contents: write
     steps:
-      - uses: adztrz/metrics@master
+      - uses: lowlighter/metrics@latest
         with:
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header, activity, community, repositories, metadata
-          base_hireable: yes
-          
-      - name: 🦑 General
-        if: ${{ success() || failure() }}
-        uses: adztrz/metrics@master
-        with:
-          filename: general.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          base_indepth: yes
-          config_order: isocalendar, languages, notable, discussions, topics
-          output_action: gist
-          committer_gist: ${{ secrets.GIST }}
+          user: adztrz
+          config_timezone: Asia/Jakarta
+          config_display: large
+          #commits_authoring: 38562595+pitmonticone@users.noreply.github.com, pit.monticone@gmail.com, pietro.monticone@edu.unito.it, pietromonticone.cs@gmail.com
+          plugin_achievements: yes
+          plugin_calendar: yes
+          plugin_calendar_limit: 1
+          #plugin_followup: yes
+          #plugin_habits: yes
+          #plugin_habits_facts: no
+          #plugin_habits_charts: yes
+          plugin_introduction: yes
           plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
           plugin_languages: yes
-          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, qmake, lex, cmake, shell, gnuplot, vue, scala, c, c++, ejs
-          plugin_languages_details: lines, bytes-size, percentage
-          plugin_languages_sections: most-used, recently-used
-          plugin_languages_indepth: yes
-          plugin_languages_limit: 2
-          plugin_topics: yes
-          plugin_topics_limit: 0
-          plugin_topics_mode: icons
-          plugin_notable: yes
-          plugin_discussions: yes
-
-      - name: Recent activity charts
-        if: ${{ success() || failure() }}
-        uses: adztrz/metrics@master
-        with:
-            filename: metrics.plugin.habits.charts.svg
-            token: ${{ secrets.METRICS_TOKEN }}
-            base: ""
-            plugin_habits: yes
-            plugin_habits_facts: no
-            plugin_habits_charts: yes
-            config_timezone: Asia/Jakarta
-
+          plugin_languages_ignored: html, css, tex, less, dockerfile, makefile, JavaScript, SCSS, Ruby, Jupyter Notebook, Shell, Tcl
+          plugin_licenses: yes
+          plugin_lines:  yes
+          #plugin_notable: yes
+          #plugin_people: yes
+          #plugin_people_types: contributors, sponsoring
+          #plugin_repositories: yes
+          #plugin_repositories_featured: JuliaGraphs/MultilayerGraphs.jl, InPhyT/COVID19-Italy-Integrated-Surveillance-Data, JuliaHealth/ICD_GEMs.jl, pitmonticone/EnergySystemModelling, InPhyT/UnrollingAverages.jl, pitmonticone/SocialMediaEgoGraphAnalysis
+          #plugin_topics: yes
+          #plugin_topics_mode: icons
