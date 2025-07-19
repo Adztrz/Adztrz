@@ -12,20 +12,6 @@ Full-stack developer with experience in web and mobile development, currently ex
 - Exploring new technologies and development methodologies
 - Contributing to open-source projects and collaborative development
 
-## Featured Projects
-
-### [NgopiEasy](https://github.com/Adztrz/NgopiEasy)
-Modern coffee ordering application featuring streamlined user experience and efficient order management system.
-
-### [PetMe](https://github.com/Adztrz/PetMe)
-Comprehensive pet care and management platform designed for pet owners to track health, appointments, and care schedules.
-
-### [Layanan Desa Wonorejo](https://github.com/Adztrz/layanan-desa-wonorejo)
-Village service management system that digitizes local government services and improves community access to administrative processes.
-
-### [Sistem Webinar](https://github.com/Adztrz/Sistem_Webinar)
-Complete webinar management platform with integrated registration system, streaming capabilities, and participant management tools.
-
 ## Technical Skills
 
 I work with diverse technology stacks tailored to project requirements. My repositories demonstrate experience across various programming languages, frameworks, and development tools.
