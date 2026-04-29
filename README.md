@@ -16,13 +16,6 @@ I work around the edges of:
 - Android development
 - digital infrastructure experiments
 
-### Selected work
-
-- **PetMe** — Android/Kotlin capstone project
-- **NgopiEasy** — online photocopy/order platform
-- **PojokInfoUNS** — PHP-based information system
-- **Business Intelligence** — data analysis notebooks
-- **Layanan Desa Wonorejo** — village service web app
 
 ---
 
