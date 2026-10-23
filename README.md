@@ -27,8 +27,3 @@
 
 Most of what I'm building now lives in private repos. The pinned ones below are older public work.
 
----
-
-<p align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics">
-</p>
