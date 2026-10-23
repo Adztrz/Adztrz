@@ -1,7 +1,3 @@
-<h1 align="center">Adztrz</h1>
-
----
-
 ### About
 
 - Local-first tools: apps that run on my own machine, keep data in SQLite and work offline.
