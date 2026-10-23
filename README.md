@@ -1,12 +1,4 @@
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3500&pause=900&color=8B949E&center=true&vCenter=true&width=560&lines=Building+small+machines+for+the+internet;Local-first+tools+%C2%B7+automation+%C2%B7+AI+agents;Learning+networking%3A+MikroTik+%2B+Proxmox" alt="Building small machines for the internet">
-
-<h1>Adztrz</h1>
-
-<em>Software, automation, data, and systems that quietly work.</em>
-
-</div>
+<h1 align="center">Adztrz</h1>
 
 ---
 
