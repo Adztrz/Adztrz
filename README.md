@@ -1,29 +1,45 @@
-<h2 align="center">Adztrz</h2>
+<div align="center">
 
-<p align="center">
-  <em>Building small machines for the internet — software, automation, data, and systems that quietly work.</em><br>
-  Developer and designer in Indonesia.
-</p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=900&color=2F81F7&center=true&vCenter=true&width=560&lines=Building+small+machines+for+the+internet;Local-first+tools+%C2%B7+automation+%C2%B7+AI+agents;Learning+networking%3A+MikroTik+%2B+Proxmox" alt="Building small machines for the internet">
+
+<h1>Hi, I'm Adztrz 👋</h1>
+
+<em>Software, automation, data, and systems that quietly work.</em>
+
+</div>
 
 ---
 
-### What I build
+### 🧭 About me
 
-- **Local-first tools.** Apps that run on my own machine, keep data in SQLite and work offline.
-- **Automation and AI agents.** Workflows in n8n and agents that propose changes; a person approves them.
-- **Web apps.** Next.js and TypeScript now; Laravel and PHP before that.
-- **Data.** Scraping, cleaning and analysis in Python and notebooks.
-- **Networking and homelab (learning).** MikroTik routing, Proxmox virtualisation and self-hosting.
-- **Android.** Kotlin apps from my university years.
+- 🛠️ I build **local-first tools**: apps that run on my own machine, keep data in SQLite and work offline.
+- 🤖 I automate with **n8n** and **AI agents** that propose changes for a person to approve.
+- 🌐 I make **web apps** in Next.js and TypeScript, and Laravel and PHP before that.
+- 📊 I do **data work**: scraping, cleaning and analysis in Python and notebooks.
+- 🌱 I'm learning **networking and homelab**: MikroTik routing, Proxmox virtualisation and self-hosting.
+- 🐧 My daily driver is **Arch Linux + Hyprland**.
+- 📍 I'm based in **Indonesia**.
 
-### Stack
+### 🧰 Tech stack
 
-**Build:** `TypeScript` · `Next.js` · `React` · `Python` · `SQLite` · `n8n` · `Claude Code` · `Kotlin` · `Laravel`<br>
-**Learning:** `MikroTik` · `Proxmox` · `Rust`
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=ts,nextjs,react,python,sqlite,laravel,php,kotlin,androidstudio,linux,arch,git&perline=12" alt="TypeScript, Next.js, React, Python, SQLite, Laravel, PHP, Kotlin, Android Studio, Linux, Arch, Git">
+</p>
 
-<sub>Daily driver: Arch Linux + Hyprland.</sub>
+<p align="left">
+  <img alt="n8n" src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white">
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude_Code-D97757?style=for-the-badge&logo=claude&logoColor=white">
+  <img alt="Tailscale" src="https://img.shields.io/badge/Tailscale-242424?style=for-the-badge&logo=tailscale&logoColor=white">
+</p>
 
-### Notes
+### 🌱 Currently learning
+
+<p align="left">
+  <img alt="MikroTik" src="https://img.shields.io/badge/MikroTik-293239?style=for-the-badge&logo=mikrotik&logoColor=white">
+  <img alt="Proxmox" src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white">
+  <img alt="Rust" src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white">
+</p>
+
+### 📌 Note
 
 Most of what I'm building now lives in private repos. The pinned ones below are older public work.
-
